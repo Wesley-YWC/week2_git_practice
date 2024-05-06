@@ -1,1 +1,1 @@
-console.log("The registr page")
+console.log("The register page")
